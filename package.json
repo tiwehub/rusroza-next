@@ -51,6 +51,7 @@
     "eslint-plugin-sonarjs": "^1.0.3",
     "eslint-plugin-tailwindcss": "^3.17.0",
     "eslint-plugin-unicorn": "^53.0.0",
+    "graphql-tag": "^2.12.6",
     "postcss": "^8.4.38",
     "postcss-cli": "^11.0.0",
     "postcss-combine-media-query": "^1.0.1",
